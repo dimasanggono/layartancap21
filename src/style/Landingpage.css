@@ -1,0 +1,66 @@
+.MyBg {
+  height: 100vh;
+  background: url(../assets/images/bg/cinema.jpg);
+  background-size: cover;
+}
+
+.intro {
+  height: 400px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+  text-align: center;
+}
+.title2 {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.introbtn {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.trending {
+  height: auto;
+  background: url(../assets/images/bg/theater.jpg);
+  background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 450px;
+}
+
+.kategori {
+  font-size: 3rem;
+  font-weight: 600;
+  text-shadow: 2px 2px black;
+}
+
+.superhero {
+  height: auto;
+  background: url(../assets/images/bg/theater.jpg);
+  background-size: cover;
+}
